@@ -1,0 +1,148 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body {
+	background: #fff;
+	font-family: 'Oswald', sans-serif;
+}
+img#img-user{
+	width: 200px;
+	border-radius: 100px;
+	margin-top: 10px; 
+}
+section#main{
+	position:absolute;
+	left: 250px;
+	margin-top: 56px;
+	padding-right: 10px;
+	padding-left: 10px;
+
+	width: calc(100% - 271px);
+	border: .5px solid #b3b3b3;
+	background: rgba(169,169,169,.3);
+	height: auto;
+}
+div#title p{
+  margin-top: -20px;
+  font-size: 18px;
+  margin-left: 25px;
+}
+div#triangulo1{
+	width: 0; 
+     height: 0; 
+     border-left: 23px solid #03a5f6;
+     border-top: 30px solid transparent;
+     border-bottom: 10px solid transparent; 
+}
+div#tringulo2{
+	margin-top: -40px;
+	 width: 0; 
+     height: 0; 
+     border-left: 20px solid #00d1f2;
+     border-top: 40px solid transparent;
+     border-bottom: 10px solid transparent; 
+}
+footer{
+	color: #24242c;
+	margin-top: 10px;
+	padding: 10px;
+	width: 100%;
+	background:#cacaca;
+	display: table;
+	margin-left: -10px;
+}
+footer article{
+	width: calc(100% / 3);
+	display: table-cell;
+}
+section#user{
+	position: fixed;
+	width: 250px;
+	height: calc(100% - 53px);
+	top: 56px;
+	left: 0;
+	color: #fff;
+	background: #272729;
+	border-right: 5px solid #101416;
+}
+article#history{
+	height: 200px;
+	overflow-y: scroll;
+	padding: 10px;
+	width: calc(100% - 30px);
+	background: #282923;
+	color: #fff;
+	border:3px solid #404239;
+	border-radius: 5px;
+}
+
+article#bienvenida{
+	z-index: 2000;
+	background-color: #669933;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	margin-top: 0px;
+	margin-left: -10px;
+	border-radius: 0px;
+	width: calc(100%);
+}
+.navbar-default{
+	background-color: #669933;
+}
+div#user-dates{
+	padding:10px;
+}
+div#user-foto{
+	text-align: center;
+}
+input[type="button"]#button{
+	margin-right: 10px;
+	font-size: 30px;
+	color: #fff;
+	width: calc(100% / 3 - 16px);
+	border: 0px solid #cacaca;
+	background: #4a97b7;
+	height: 150px;
+	margin-top: 5px;
+    box-shadow: 0px 8px 0px 0px rgba(2,118,184,1);
+    border-radius: 5px;
+	
+	
+	
+}
+img#img-logo{
+	width: 230px;
+	position: relative;
+	top: -10px
+}
+img#perfil{
+	margin-top: -5px;
+	width: 50px;
+	text-align: center;
+}
+header{
+	z-index: 1000;
+position: fixed;
+height: 50px;
+background:#669933;
+width: calc(100% - 6px);
+color: #fff;
+padding: 3px;
+}
+header nav a{
+ text-decoration: none;
+ color: #fff;
+}
+header nav  ul{
+	float: left;
+	padding: 10px;
+}
+nav{
+	
+}
+table{
+	width: 100%;
+	text-align: center;
+}

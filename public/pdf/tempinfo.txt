@@ -1,0 +1,16 @@
+20123423;Juan Manuel Cano;ING. en Mecatronica;2018-09-10;2:47
+20123423;Juan Manuel Cano;ING. en Mecatronica;2018-09-10;2:48
+20123423;Juan Manuel Cano;ING. en Mecatronica;2018-09-10;3:23
+20150742;Ricardo Cervantes García      ;ING. en Sistemas Computacionales;2018-09-10;3:24
+20150742;Ricardo Cervantes García      ;ING. en Sistemas Computacionales;2018-09-10;3:30
+20143423;Jose de la Torre;ING. en Mecatronica;2018-09-10;3:32
+23123423;Sebastian gutierres;ING. en Mecatronica;2018-09-10;3:33
+23123423;Sebastian gutierres;ING. en Mecatronica;2018-09-10;3:33
+23123423;Sebastian gutierres;ING. en Mecatronica;2018-09-10;11:38
+20150434;Adriana Álvarez;ING. en Mecatronica;2018-09-10;18:34
+20150434;Adriana Álvarez;ING. en Mecatronica;2018-09-10;19:31
+20150843;Ricard Cervantes Garcia;ING. en Sistemas Computacionales;2018-09-12;12:2
+20150434;Adriana Álvarez;ING. en Mecatronica;2018-09-12;12:3
+20150742;Ricardo Cervantes García      ;ING. en Sistemas Computacionales;2018-09-13;21:49
+20150843;Ricard Cervantes Garcia;ING. en Sistemas Computacionales;2018-09-14;11:40
+20150843;Ricard Cervantes Garcia;ING. en Sistemas Computacionales;2018-09-14;12:1
